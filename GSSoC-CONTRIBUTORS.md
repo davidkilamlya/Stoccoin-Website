@@ -22,3 +22,5 @@ Please add your name and college above if you are a contributor:
   JSS Science and Technology University, Mysore
 - Manash \
   Nitte Meenakshi Institute of Technology, Bangalore
+ - David Kilamlya \
+  Institute of Accountancy Arusha, Arusha Tanzania
